@@ -1,0 +1,17 @@
+﻿class,message
+ham,"Hello, I hope you are doing well."
+spam,Congratulations! You've won a free iPhone. Call now.
+ham,Meeting at 3pm today. Please attend
+spam ,You have a new bank account waiting for you. Click here to claim. 
+ham,Please find the attached report. 
+spam ,"URGENT! Your account has been compromised, log in to secure it now."
+ham,I will send the report by the end of the day.
+spam,Exclusive deal just for you! Get a free vacation if you sign up today.
+ham,"Hi, just wanted to check in on you. How's everything going?"
+spam,Congratulations! You've won a $1000 gift card. Claim now!
+ham,Don't forget about our meeting tomorrow at 2 PM.
+spam,Limited time offer: Buy one get one free! Call now.
+ham,"Hey, I missed your call earlier. Can I call you back?"
+spam,Act fast! Your bank account has been compromised. Click this link to secure it now.
+ham,Let's have dinner tomorrow at that new Italian restaurant.
+spam,Special offer for you! Click here to get a new smartphone for free.
